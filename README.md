@@ -2,7 +2,8 @@
 
 This project demonstrates how to control the volume of a computer using hand gestures. It utilizes OpenCV, MediaPipe, and PyCAW libraries to detect hand landmarks, interpret hand gestures, and adjust the system volume accordingly.
 
-![Final Camera Image]![image](https://user-images.githubusercontent.com/91087552/227796689-aac0414a-7cd7-4ca4-9236-4492ac6a4aa8.png)
+## Screen Shot
+[image](https://user-images.githubusercontent.com/91087552/227796689-aac0414a-7cd7-4ca4-9236-4492ac6a4aa8.png)
 
 
 ## Requirements
