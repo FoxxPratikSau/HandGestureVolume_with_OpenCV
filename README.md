@@ -18,8 +18,7 @@ This project demonstrates how to control the volume of a computer using hand ges
 1. Clone this repository.
 2. Install the required libraries by running the following command:
   `pip install -r requirements.txt`
-3.
-3. Replace the `final_camera_image.png` file with a screenshot of your own final camera image.
+
 
 ## Usage
 
