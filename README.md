@@ -34,3 +34,6 @@ Move your hand in front of the camera, and use gestures to control the system vo
 
 This project is licensed under the MIT License.
 
+## Created By
+
+[FoxxPratikSau](https://github.com/FoxxPratikSau)
